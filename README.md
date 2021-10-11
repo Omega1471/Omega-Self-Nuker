@@ -1,1 +1,9 @@
-
+!!Requirments!!
+requests
+asyncio
+discord
+colorama
+pypresence
+aiohttp
+datetime
+psutil
